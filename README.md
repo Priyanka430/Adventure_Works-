@@ -61,6 +61,10 @@ I developed a comprehensive BI solution to track and analyze key performance ind
 - Implementation of advanced machine learning models for deeper insights.
 - Continuous improvement of data quality and analytics capabilities.
 
+### Report
+
+![Report Page 1](/AW_Images/Adventures_Report_page-0001.png)
+
 ### How to Use
 1. **Clone the Repository**: 
    ```bash
