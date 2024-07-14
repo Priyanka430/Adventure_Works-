@@ -63,7 +63,10 @@ I developed a comprehensive BI solution to track and analyze key performance ind
 
 ### Report
 
-![Report Page 1](/AW_Images/Adventures_Report_page-0001.png)
+![Report Page 1](AW_Images/Adventures_Report_page-0001.jpg)
+![Report Page 1](AW_Images/Adventures_Report_page-0002.jpg)
+![Report Page 1](AW_Images/Adventures_Report_page-0003.jpg)
+
 
 ### How to Use
 1. **Clone the Repository**: 
